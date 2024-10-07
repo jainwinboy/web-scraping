@@ -1,0 +1,19 @@
+{
+  "name": "the-ultimate-web-scraping-course",
+  "version": "1.0.0",
+  "description": "Hello world!",
+  "main": "proxies.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "crawlee": "^3.11.1",
+    "dom-parser": "^1.1.5",
+    "got-scraping": "^4.0.6",
+    "graceful-fs": "^4.2.11",
+    "node-gzip": "^1.1.2",
+    "playwright": "^1.46.0"
+  }
+}
